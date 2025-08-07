@@ -1,3 +1,4 @@
+![snake gif](https://github.com/yanggangbb/yanggangbb/blob/output/github-contribution-grid-snake.svg)
 # Kim Yanggang
 
 ![Yanggang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanggangbb&theme=tokyonight&show_icons=true)
